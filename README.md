@@ -1,5 +1,5 @@
 # Slider
-Slider is an iOS application made using the iOS and Swift for Beginners Bull's Eye tutorial by Ray Wenderlich
+Slider is my first full iOS application and is made using the iOS and Swift for Beginners Bull's Eye tutorial by Ray Wenderlich
 
 ★ Bull's Eye ★
 
